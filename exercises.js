@@ -8,6 +8,7 @@
  */
 
 console.log('test')
+console.log('test2')
 /*
     # An object with properties declared line by line
 
