@@ -7,7 +7,7 @@
             - Add a property named `contents` and set it to be an empty array.
  */
 
-
+console.log('test')
 /*
     # An object with properties declared line by line
 
